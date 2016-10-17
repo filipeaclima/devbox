@@ -1,5 +1,6 @@
 This is a Vagrant box I built for my own needs. If it suits you, great!
 
+Current version: 1.0.1
 
 ** DISCLAIMER: **
 
