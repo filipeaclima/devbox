@@ -28,9 +28,9 @@ Networks:
 
 Adapter #1: NAT Network (DHCP)
 
-phpMyAdmin: http://<IP address / hostname>/phpmyadmin
+phpMyAdmin: http://\<IP address / hostname\>/phpmyadmin
 
-redis-commander: http://<IP address / hostname>:8081
+redis-commander: http://\<IP address / hostname\>:8081
 
 On /home/vagrant/scripts I've placed 3 helper scripts one could use to help provision the machine.
 
