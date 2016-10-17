@@ -7,20 +7,20 @@ This box is provided "as-is", without any kind of warranties whatsoever. It shou
 
 Stack:
 
-Ubuntu Server 16.04.1 LTS (Xenial Xerus)
-SSH Server 7.2
-nginx 1.10.0
-PHP 7.0.8 (with PDO drivers for MySQL and SQL Server)
-MariaDB 10.0.27
-Redis 3.2.4
-Composer 1.2.1
-Node.js 6.8.1
-npm 3.10.8
-Gulp 1.2.2
-Ruby 2.3.1
-Sass 3.4.22
-redis-commander 0.4.2
-phpMyAdmin 4.5.4.1
+- Ubuntu Server 16.04.1 LTS (Xenial Xerus)
+- SSH Server 7.2
+- nginx 1.10.0
+- PHP 7.0.8 (with PDO drivers for MySQL and SQL Server)
+- MariaDB 10.0.27
+- Redis 3.2.4
+- Composer 1.2.1
+- Node.js 6.8.1
+- npm 3.10.8
+- Gulp 1.2.2
+- Ruby 2.3.1
+- Sass 3.4.22
+- redis-commander 0.4.2
+- phpMyAdmin 4.5.4.1
 
 User / Pass : vagrant / vagrant
 
