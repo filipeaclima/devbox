@@ -34,4 +34,4 @@ redis-commander: http://\<IP address / hostname\>:8081
 
 On /home/vagrant/scripts I've placed 3 helper scripts one could use to help provision the machine.
 
-Go to http://github.com/filipeaclima/devbox for an example Vagrantfile
+Go to http://github.com/filipeaclima/devbox for an example Vagrantfile, feedback, requests, etc.
