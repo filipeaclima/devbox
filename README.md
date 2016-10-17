@@ -1,4 +1,4 @@
-This is a machine I built for my own needs. If it suits you, great!
+This is a Vagrant box I built for my own needs. If it suits you, great!
 
 
 ** DISCLAIMER: **
