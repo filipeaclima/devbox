@@ -1,6 +1,8 @@
 This is a machine I built for my own needs. If it suits you, great!
 
+
 ** DISCLAIMER: **
+
 This box is provided "as-is", without any kind of warranties whatsoever. It should be used for development environments ONLY, and at your own risk.
 
 Stack:
@@ -32,4 +34,4 @@ redis-commander: http://<IP address / hostname>:8081
 
 On /home/vagrant/scripts I've placed 3 helper scripts one could use to help provision the machine.
 
-Go to http://github.com/filipe.aclima/devbox for an example Vagrantfile
+Go to http://github.com/filipeaclima/devbox for an example Vagrantfile
