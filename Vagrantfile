@@ -38,8 +38,11 @@ Vagrant.configure("2") do |config|
 	# Description: Creates a new MariaDB database
 	# Arguments:
 	#   $1 (required): the name of the database
-	#   $2 (optional): the username to access MariaDB. Defaults to 'vagrant'
-	#   $3 (optional): the password to access MariaDB. Defaults to 'vagrant'
+	#   $2 (optional): the charset of the database. Defaults to 'utf8'
+	#   $3 (optional): the collation of the database. Defaults to 'utf8_general_ci'
+	#   $4 (optional): the username to access MariaDB. Defaults to 'vagrant'
+	#   $5 (optional): the password to access MariaDB. Defaults to 'vagrant'
+	# If you don't need to specify agruments $2 and $3, but need to specify $4 or $5, please specify them all. No user input validations are made on the scripts!! 
 	sh /home/vagrant/scripts/new-database.sh my_db
 	# Script: new-host-entry.sh
 	# Description: Creates a new entry on /etc/hosts
