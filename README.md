@@ -1,6 +1,6 @@
 This is a Vagrant box I built for my own needs. If it suits you, great!
 
-Current version: 1.1.1
+Current version: 1.1.2
 
 ** DISCLAIMER: **
 
@@ -14,7 +14,7 @@ Stack:
 - PHP 7.0.8 (with PDO drivers for MySQL and SQL Server)
 - MariaDB 10.0.25
 - Redis 3.2.5
-- Composer 1.2.2
+- Composer 1.2.3
 - Node.js 7.2.0
 - npm 4.0.3
 - Gulp 1.2.2
