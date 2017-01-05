@@ -1,6 +1,6 @@
 This is a Vagrant box I built for my own needs. If it suits you, great!
 
-Current version: 1.1.5
+Current version: 1.1.6
 
 ** DISCLAIMER: **
 
@@ -15,7 +15,7 @@ Stack:
 - MariaDB 10.0.28
 - Redis 3.2.6
 - Composer 1.3.0
-- Node.js 7.3.0
+- Node.js 7.4.0
 - npm 4.1.1
 - Gulp 1.2.2
 - Ruby 2.3.1
