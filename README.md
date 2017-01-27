@@ -1,6 +1,6 @@
 This is a Vagrant box I built for my own needs. If it suits you, great!
 
-Current version: 1.1.9
+Current version: 1.1.10
 
 ** DISCLAIMER: **
 
@@ -34,6 +34,6 @@ phpMyAdmin: http://\<IP address / hostname\>/phpmyadmin
 
 redis-commander: http://\<IP address / hostname\>:8081
 
-On /home/vagrant/scripts I've placed 3 helper scripts one could use to help provision the machine.
+On /home/vagrant/scripts I've placed 4 helper scripts one could use to help provision the machine.
 
 Go to http://github.com/filipeaclima/devbox for an example Vagrantfile, feedback, requests, etc.
