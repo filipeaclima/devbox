@@ -50,5 +50,10 @@ Vagrant.configure("2") do |config|
 	#   $1 (required): the IP address of the entry
 	#   $2 (required): the hostname that matches the IP address
 	sh /home/vagrant/scripts/new-host-entry.sh 192.168.1.1 MY-MACHINE
+	# Script: new-crontab-entry.sh
+	# Description: Creates a new entry on crontab
+	# Arguments:
+	#   $1 (required): the crontab entry
+	sh /home/vagrant/scripts/new-crontab-entry.sh "* * * * * <command to execute>"
   SHELL
 end
